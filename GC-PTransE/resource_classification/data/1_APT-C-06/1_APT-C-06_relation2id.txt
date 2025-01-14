@@ -1,0 +1,10 @@
+DISCERN	0
+USES	1
+RELATE	2
+ATTACK	3
+senmatic	4
+ParentOf	5
+CanPrecede	6
+CanFollow	7
+PeerOf	8
+ChildOf	9
